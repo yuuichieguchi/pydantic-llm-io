@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "pydantic-llm-io"
-version = "0.1.0"
+version = "1.0.0"
 description = "Type-safe, validated input/output handling for LLM calls with Pydantic models"
 readme = "README.md"
 license = { text = "MIT" }
@@ -12,7 +12,7 @@ authors = [{ name = "pydantic-llm-io contributors" }]
 requires-python = ">=3.10"
 keywords = ["llm", "pydantic", "openai", "validation", "type-safe"]
 classifiers = [
-    "Development Status :: 3 - Alpha",
+    "Development Status :: 4 - Beta",
     "Intended Audience :: Developers",
     "License :: OSI Approved :: MIT License",
     "Operating System :: OS Independent",

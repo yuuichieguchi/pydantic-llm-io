@@ -1,6 +1,6 @@
 """pydantic-llm-io: Type-safe, validated input/output handling for LLM calls."""
 
-__version__ = "0.1.0"
+__version__ = "1.0.0"
 
 from .api import call_llm_validated, call_llm_validated_async
 from .clients import ChatClient, FakeChatClient, OpenAIChatClient
