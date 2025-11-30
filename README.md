@@ -17,14 +17,21 @@
 ## Installation
 
 ```bash
+# Basic installation (without LLM provider)
 pip install pydantic-llm-io
+
+# With OpenAI support
+pip install pydantic-llm-io[openai]
+
+# With development dependencies
+pip install pydantic-llm-io[dev]
 ```
 
 ### Dependencies
 
 - Python 3.10+
 - pydantic >= 2.0
-- openai >= 1.0
+- openai >= 1.0 (optional, required only if using OpenAIChatClient)
 
 ## Quick Start
 
