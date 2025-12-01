@@ -44,10 +44,10 @@ dev = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/anthropics/pydantic-llm-io"
-Documentation = "https://github.com/anthropics/pydantic-llm-io#readme"
-Repository = "https://github.com/anthropics/pydantic-llm-io.git"
-Issues = "https://github.com/anthropics/pydantic-llm-io/issues"
+Homepage = "https://github.com/yuuichieguchi/pydantic-llm-io"
+Documentation = "https://github.com/yuuichieguchi/pydantic-llm-io#readme"
+Repository = "https://github.com/yuuichieguchi/pydantic-llm-io.git"
+Issues = "https://github.com/yuuichieguchi/pydantic-llm-io/issues"
 
 [tool.setuptools]
 packages = ["pydantic_llm_io"]
