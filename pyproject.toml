@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "pydantic-llm-io"
-version = "1.0.1"
+version = "1.0.2"
 description = "Type-safe, validated input/output handling for LLM calls with Pydantic models"
 readme = "README.md"
 license = { text = "MIT" }
